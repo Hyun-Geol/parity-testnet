@@ -21,7 +21,7 @@ cors = ["*"]
 
 [mining]
 # Account address to receive reward when block is mined.
-author = "0x7Ea9e8712F5e603a99aeB1A222E1668671C0570D"
+author = "Your Wallet Address"
 extra_data = "JHG"
 
 [footprint]
